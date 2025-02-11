@@ -26,6 +26,8 @@ Bu görseldeki gibi zamana bağlı grafiği görüp. Bir itemin ortalama kaça s
 
 
 
+![metin2_stok_takip_penceresi](https://github.com/user-attachments/assets/e4f75dd7-ac76-463d-ae98-fdd48642712d)
+
 **Note:StokTakipPenceresi** : Tamamiyle bitmiş değil uygulama
 
 
