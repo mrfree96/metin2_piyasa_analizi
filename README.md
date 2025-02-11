@@ -20,3 +20,8 @@
 0. Metin2 oyunu bunu hile olarak algılamaz çünkü herhangi bir hackleme sistemi değildir.**
 1. Zamana bağlı stok durumunu görüntüleyebilme.
 2. Hangi ürünü kaça aldığını görüntüleyebilme.
+3. Farklı bir kullanım tüyosu. Kendi stoklarınız yerine piyasa takibi yapmak için. Bir ürünün fiyatlarını girip ortalama piyasa fiyatını görüntüleme en çok fiyatı görüntüleme vb. özelliklerden faydalanabilirsiniz. Bunu nasıl mı yapabilirsiniz ?
+   ![Ekran görüntüsü 2025-02-10 051730](https://github.com/user-attachments/assets/87240654-69dd-4708-b137-ab0b681b62d6)
+Bu görseldeki gibi zamana bağlı grafiği görüp. Bir itemin ortalama kaça satılabileceğini anlayabilirsiniz. Bundan sonrası size kalmış..
+
+Emeğe saygı +rap.
