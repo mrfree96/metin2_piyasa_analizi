@@ -25,4 +25,8 @@
 Bu görseldeki gibi zamana bağlı grafiği görüp. Bir itemin ortalama kaça satılabileceğini anlayabilirsiniz. Bundan sonrası size kalmış..
 
 
+
+**Note:StokTakipPenceresi** : Tamamiyle bitmiş değil uygulama
+
+
 **Note:** **Bug bulursanız düzeltin**
