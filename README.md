@@ -17,7 +17,6 @@
 
 **Önemli Özellikler:**
 
-**0.Metin2 oyunu bunu hile olarak algılamaz çünkü herhangi bir hackleme sistemi değildir.**
-1.Zamana bağlı stok durumunu görüntüleyebilme.
-2.Hangi ürünü kaça aldığını görüntüleyebilme.
-3.
+0. Metin2 oyunu bunu hile olarak algılamaz çünkü herhangi bir hackleme sistemi değildir.**
+1. Zamana bağlı stok durumunu görüntüleyebilme.
+2. Hangi ürünü kaça aldığını görüntüleyebilme.
