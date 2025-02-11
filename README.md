@@ -14,3 +14,10 @@
 ## **3-Belli bir item'ı stoklarımızda aratabiliyoruz. Bu sayede hangi itemi kaça aldığımızı hatırlayabiliriz. Bu metin2 oyunundaki ticaret sisteminizi daha iyi geliştirmenize yardımcı olabilir.**
 
 ![Ekran görüntüsü 2025-02-10 051629](https://github.com/user-attachments/assets/40ec81b9-dbe5-48f0-8058-7c4a8dba665e)
+
+**Önemli Özellikler:**
+
+**0.Metin2 oyunu bunu hile olarak algılamaz çünkü herhangi bir hackleme sistemi değildir.**
+1.Zamana bağlı stok durumunu görüntüleyebilme.
+2.Hangi ürünü kaça aldığını görüntüleyebilme.
+3.
