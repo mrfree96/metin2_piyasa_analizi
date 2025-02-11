@@ -24,4 +24,5 @@
    ![Ekran görüntüsü 2025-02-10 051730](https://github.com/user-attachments/assets/87240654-69dd-4708-b137-ab0b681b62d6)
 Bu görseldeki gibi zamana bağlı grafiği görüp. Bir itemin ortalama kaça satılabileceğini anlayabilirsiniz. Bundan sonrası size kalmış..
 
-Emeğe saygı +rap.
+
+**Note:** **Bug bulursanız düzeltin**
