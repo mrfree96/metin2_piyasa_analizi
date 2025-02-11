@@ -11,6 +11,6 @@
 
 ![Ekran görüntüsü 2025-02-10 051602](https://github.com/user-attachments/assets/7ec83c48-c3b5-4294-ad96-95ead844b7bc)
 
-## **3-İlk görselde görünen arayüz giriş ekranı. Bu arayüzdeki her şeyi tek tek açıklamaya çalışacağım.**
+## **3-Belli bir item'ı stoklarımızda aratabiliyoruz. Bu sayede hangi itemi kaça aldığımızı hatırlayabiliriz. Bu metin2 oyunundaki ticaret sisteminizi daha iyi geliştirmenize yardımcı olabilir.**
 
 ![Ekran görüntüsü 2025-02-10 051629](https://github.com/user-attachments/assets/40ec81b9-dbe5-48f0-8058-7c4a8dba665e)
